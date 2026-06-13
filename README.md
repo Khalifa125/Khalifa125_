@@ -1,14 +1,12 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,100:172a45&height=200&section=header&text=Mohamed%20Khalifa&fontSize=50&fontColor=ffffff&desc=MIS%20Student%20%7C%20Flutter%20Developer%20%7C%20Azure%20AI%20Certified&descAlignY=55&descSize=16" />
-</div>
+# 👋 Mohamed Khalifa
 
-<p align="center">
-  <a href="mailto:mohamedkhalifa8589@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/mohamed-khalifa-38a638267"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/Khalifa125"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Location-Cairo%2C%20Egypt-00BFFF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Open%20to%20Work-6DB33F?style=for-the-badge"/>
-</p>
+**MIS Student** · **Flutter Developer** · **Azure AI Certified**
+
+[![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:mohamedkhalifa8589@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-khalifa-38a638267)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Khalifa125)
+![Location](https://img.shields.io/badge/Location-Cairo%2C%20Egypt-00BFFF)
+![Open to Work](https://img.shields.io/badge/Open_to_Work-6DB33F)
 
 ---
 
@@ -40,22 +38,28 @@ Modern Academy in Maadi · 2023 – 2027
 
 ## 🚀 Featured Projects
 
-### FitTracker
-A 7-screen fitness tracking application featuring workout logging, nutrition tracking, step counter, achievements dashboard, and full dark/light mode support with custom SVG icons.
+**FitTracker** — A 7-screen fitness tracking application featuring workout logging, nutrition tracking, step counter, achievements dashboard, and full dark/light mode support with custom SVG icons.
 
-### StudyFlip
-An interactive flashcard study application with deck management, animated card-flip transitions, and per-subject progress tracking.
+**StudyFlip** — An interactive flashcard study application with deck management, animated card-flip transitions, and per-subject progress tracking.
 
-### Quotify
-A daily quotes application with category browsing, custom branded splash screen featuring a gradient design, and a clean reading experience.
+**Quotify** — A daily quotes application with category browsing, custom branded splash screen, and a clean reading experience.
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=dart,flutter,cs,dotnet,mysql,azure,git,github,postman,vscode,figma&perline=11" />
-</p>
+![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 
 | Category | Skills |
 |----------|--------|
@@ -89,34 +93,26 @@ A daily quotes application with category browsing, custom branded splash screen 
 
 ## 📜 Certifications
 
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Microsoft_Azure_AI_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/AI_Career_Essentials-ALX_Africa-FF6F00?style=for-the-badge"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/McKinsey_Forward_Program-000000?style=for-the-badge&logo=mckinsey&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Flutter_Development-4Level1-02569B?style=for-the-badge&logo=flutter&logoColor=white"/></a>
-</p>
+![Microsoft Azure AI Fundamentals](https://img.shields.io/badge/Microsoft_Azure_AI_Fundamentals-0078D4?logo=microsoftazure&logoColor=white)
+![AI Career Essentials](https://img.shields.io/badge/AI_Career_Essentials-ALX_Africa-FF6F00)
+![McKinsey Forward](https://img.shields.io/badge/McKinsey_Forward_Program-000000?logo=mckinsey&logoColor=white)
+![Flutter Development](https://img.shields.io/badge/Flutter_Development-4Level1-02569B?logo=flutter&logoColor=white)
 
 ---
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Khalifa125&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khalifa125&layout=compact&theme=github_dark&hide_border=true" height="160"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Khalifa125&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khalifa125&layout=compact&theme=github_dark&hide_border=true)
 
 ---
 
 ## 📫 Let's Connect
 
-<p align="center">
-  <a href="mailto:mohamedkhalifa8589@gmail.com"><img src="https://img.shields.io/badge/Email-mohamedkhalifa8589%40gmail.com-red?style=social&logo=gmail"/></a>
-  <a href="https://linkedin.com/in/mohamed-khalifa-38a638267"><img src="https://img.shields.io/badge/LinkedIn-mohamed--khalifa--38a638267-blue?style=social&logo=linkedin"/></a>
-  <a href="https://github.com/Khalifa125"><img src="https://img.shields.io/badge/GitHub-@Khalifa125-181717?style=social&logo=github"/></a>
-</p>
+[![Email](https://img.shields.io/badge/Email-mohamedkhalifa8589%40gmail.com-red?logo=gmail)](mailto:mohamedkhalifa8589@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mohamed--khalifa--38a638267-blue?logo=linkedin)](https://linkedin.com/in/mohamed-khalifa-38a638267)
+[![GitHub](https://img.shields.io/badge/GitHub-@Khalifa125-181717?logo=github)](https://github.com/Khalifa125)
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,100:172a45&height=100&section=footer" />
-  <br>
-  <sub>© 2026 Mohamed Khalifa</sub>
-</div>
+---
+
+*© 2026 Mohamed Khalifa*
